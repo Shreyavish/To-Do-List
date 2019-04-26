@@ -1,0 +1,10 @@
+.del
+{
+  background-color: red;
+  color: white;
+}
+
+.is-complete
+{
+  text-decoration: line-through;
+}
